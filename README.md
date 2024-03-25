@@ -16,7 +16,10 @@ Hello! I'm Jeann, a Software Engineer. I'm passionate about coding, gaming, and 
 
 ## Featured Projects
 
+https://github.com/dust765/ClassicUO_old
 https://github.com/dust765/ClassicUO
+
+Client customized, on base ClassicUO
 
 ## Get in Touch
 
