@@ -1,11 +1,11 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello! I'm Jeann, a Software Engineer at Gloco.com. I'm passionate about coding, gaming, and enjoying the great outdoors.
+Hello! I'm Jeann, a Software Engineer. I'm passionate about coding, gaming, and enjoying the great outdoors.
 
 ## About Me
 
 - 🌱 I'm constantly learning and striving to improve my skills in software development.
-- 💼 I work as a Software Engineer at Gloco.com.
+- 💼 I work as a Software Engineer at [Gloco.com](https://www.gloco.com/).
 - 📚 Always exploring new technologies and diving into interesting coding challenges.
 - 💡 Open to collaborations and new project opportunities.
 
