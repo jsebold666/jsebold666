@@ -26,5 +26,6 @@ If you want to discuss technology, collaborate on projects, or just say hello, f
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsebold666&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsebold666&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 Thanks for visiting my profile! Feel free to explore my projects and get in touch. 😊
