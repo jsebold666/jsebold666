@@ -5,7 +5,6 @@ Hello! I'm Jeann, a Software Engineer. I'm passionate about coding, gaming, and 
 ## About Me
 
 - 🌱 I'm constantly learning and striving to improve my skills in software development.
-- 💼 I work as a Software Engineer at [Gloco.com](https://www.gloco.com/).
 - 📚 Always exploring new technologies and diving into interesting coding challenges.
 - 💡 Open to collaborations and new project opportunities.
 
@@ -14,18 +13,9 @@ Hello! I'm Jeann, a Software Engineer. I'm passionate about coding, gaming, and 
 - 🚀 Exploring the latest technologies and tools in the software development world.
 - 📝 Writing articles about software engineering and gaming on my personal blog.
 
-## Featured Projects
-
-https://github.com/dust765/ClassicUO_old
-https://github.com/dust765/ClassicUO
-
-Client customized, on base ClassicUO
-
 ## Get in Touch
 
 If you want to discuss technology, collaborate on projects, or just say hello, feel free to reach out:
-
-- 💬 LinkedIn: @jeannsebold
 
 ## GitHub Statistics
 
